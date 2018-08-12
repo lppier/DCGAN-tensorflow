@@ -203,7 +203,8 @@ class DCGAN(object):
           config.data_dir, config.dataset, self.input_fname_pattern))
         np.random.shuffle(self.data)
         batch_idxs = min(len(self.data), config.train_size) // config.batch_size
-
+        print("batch index ")
+        print(batch_idxs)
       for idx in xrange(0, int(batch_idxs)):
         if config.dataset == 'mnist':
           batch_images = self.data_X[idx*config.batch_size:(idx+1)*config.batch_size]
