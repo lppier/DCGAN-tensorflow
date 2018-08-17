@@ -185,7 +185,10 @@ class DCGAN(object):
         sample_inputs = np.array(sample).astype(np.float32)[:, :, :, None]
       else:
         sample_inputs = np.array(sample).astype(np.float32)
-  
+
+    # Add gaussian noise to input images in a bid to stop generator from increasing indefinitely
+    sample_inputs = sample_inputs + tf.random_normal(shape=tf.shape(sample_inputs), mean=0.0, stddev=0.1, dtype=tf.float32)
+
     counter = 1
     start_time = time.time()
     could_load, checkpoint_counter = self.load(self.checkpoint_dir)
