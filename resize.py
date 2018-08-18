@@ -1,8 +1,8 @@
 import os
 import cv2
 
-src = "./data/lymphocyte"
-dst = "./data/lymphocyte_resized"
+src = "./data/eosinophil"
+dst = "./data/eosinophil_resized"
 
 os.mkdir(dst)
 
