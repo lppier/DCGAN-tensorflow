@@ -59,8 +59,7 @@ If your dataset is located in a different root directory:
     
 For 128 x 128 images : 
 
-    $ python main.py --dataset eosinophil_resized  --epoch=3000 --input_height=128 --output_h
-eight=128 --train
+    $ python main.py --dataset eosinophil_resized  --epoch=3000 --input_height=128 --output_height=128 --train
 
 ## Results
 
