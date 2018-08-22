@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="571fdbbe-e4f8-4e83-8808-ea7ce4455c76" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/108.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/108.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/114.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/123.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/137.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/137.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/139.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/139.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/141.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/141.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/143.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/143.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/144.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/144.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/147.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/147.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/149.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/149.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/154.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/158.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/158.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/162.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/162.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/165.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/165.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/177.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/177.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/208.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/226.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/236.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/240.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/240.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/251.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/251.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/253.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/253.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/259.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/259.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/261.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/265.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/269.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/269.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/271.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/271.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/274.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/274.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/277.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/277.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/284.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/284.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/289.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/289.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/290.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/290.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/292.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/292.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/299.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/299.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/319.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/319.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/344.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/344.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/345.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/345.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/352.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/352.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/353.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/353.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/359.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/359.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/376.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/376.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/383.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/383.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/387.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/387.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/410.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/410.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eosinophil_resized/97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/eosinophil_resized/97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/120.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/134.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/134.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/258.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/264.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/270.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/270.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/275.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/283.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/283.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/305.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/305.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/347.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/347.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/356.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/356.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte/99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte/99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/120.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/134.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/134.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/258.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/264.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/270.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/270.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/275.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/283.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/283.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/305.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/305.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/347.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/347.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/356.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/356.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lymphocyte_resized/99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/lymphocyte_resized/99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/110.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/127.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/262.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/281.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/281.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/291.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/291.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/309.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/309.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/312.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/312.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/318.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/318.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/323.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/323.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/335.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/342.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/342.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte/83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte/83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/110.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/127.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/262.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/281.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/281.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/291.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/291.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/309.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/309.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/312.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/312.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/318.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/318.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/323.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/323.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/335.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/342.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/342.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/monocyte_resized/83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/monocyte_resized/83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resize.py" beforeDir="false" afterPath="$PROJECT_DIR$/resize.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2134203681">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="23" />
+          <entry key="py" value="162" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="185" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="173" column="8" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="209" column="17" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2009589583/numpy/random/mtrand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47005">
+              <caret line="2769" column="4" selection-start-line="2769" selection-start-column="4" selection-end-line="2769" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2009589583/numpy/core/multiarray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99348">
+              <caret line="5844" column="4" selection-start-line="5844" selection-start-column="4" selection-end-line="5844" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25432">
+              <caret line="1516" column="4" selection-start-line="1516" selection-start-column="4" selection-end-line="1516" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-563">
+              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d_loss</find>
+      <find>resize</find>
+      <find>learning_rate</find>
+      <find>learning</find>
+      <find>input</find>
+      <find>8192</find>
+      <find>sample_inputs</find>
+      <find>self.inputs</find>
+      <find>inputs</find>
+      <find>trainable=</find>
+      <find>batch_labels</find>
+      <find>labels</find>
+      <find>[sample]</find>
+      <find>gauss</find>
+      <find>gaussian</find>
+      <find>normal</find>
+      <find>df_dim</find>
+      <find>save</find>
+      <find>noise</find>
+      <find>test_</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/resize.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1158" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DCGAN-tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN-tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DCGAN-tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN-tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="571fdbbe-e4f8-4e83-8808-ea7ce4455c76" name="Default" comment="" />
+      <created>1534443440965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534443440965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833958" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3320849" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3732834" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2009589583/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47005">
+          <caret line="2769" column="4" selection-start-line="2769" selection-start-column="4" selection-end-line="2769" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2009589583/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99348">
+          <caret line="5844" column="4" selection-start-line="5844" selection-start-column="4" selection-end-line="5844" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25432">
+          <caret line="1516" column="4" selection-start-line="1516" selection-start-column="4" selection-end-line="1516" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="173" column="8" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="209" column="17" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
