@@ -57,6 +57,10 @@ If your dataset is located in a different root directory:
     $ # example
     $ python main.py --dataset=eyes --data_dir ../datasets/ --input_fname_pattern="*_cropped.png" --train
     
+For 128 x 128 images : 
+
+    $ python main.py --dataset eosinophil_resized  --epoch=3000 --input_height=128 --output_h
+eight=128 --train
 
 ## Results
 
