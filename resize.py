@@ -1,10 +1,10 @@
 import os
 import cv2
 
-src = "./data/monocyte"
-dst = "./data/monocyte_resized"
+src = "C:/Users/pierl/PycharmProjects/DCGAN-tensorflow/data/monocyte"
+dst = "C:/Users/pierl/PycharmProjects/DCGAN-tensorflow/data/monocyte_resized"
 
-#os.mkdir(dst)
+os.mkdir(dst)
 
 for each in os.listdir(src):
     img = cv2.imread(os.path.join(src, each))
