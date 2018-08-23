@@ -89,6 +89,9 @@ class DCGAN(object):
                 self.c_dim = 1
 
         self.grayscale = (self.c_dim == 1)
+        # TODO remove force grayscale
+        self.grayscale = 1
+        self.c_dim = 1
 
         if len(self.data) < self.batch_size:
             raise Exception("[!] Entire dataset size is less than the configured batch_size")
